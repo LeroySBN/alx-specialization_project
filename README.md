@@ -1,4 +1,4 @@
-# ALX Specialization Project
+# E-commerce API Project
 ## Table of Contents
 
 - [Description](#description)
@@ -11,7 +11,7 @@
 
 ## Description
 
-This project is a template for building an e-commerce backend system using TypeScript, Express.js, MongoDB, and Redis. It includes basic functionality such as user authentication, vendor management, product management, and more.
+This project is a template for building an e-commerce backend system using Node.js, TypeScript, Express.js, MySQL, MongoDB, and Redis. It includes basic functionality such as user authentication, vendor management, product management, and more.
 
 ## Requirements
 
@@ -82,10 +82,6 @@ We welcome contributions to this project. To contribute:
 5. Submit a pull request to the main repository's main branch.
 
 Please follow the project's coding conventions and keep your code clean and well-documented.
-
-## Authors
-
-[Leroy Buliro](https://github.com/leroybuliro)
 
 ## License
 
